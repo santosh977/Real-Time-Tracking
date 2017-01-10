@@ -1,0 +1,18 @@
+List Of Parameters
+
+No. of gaussians for each point = 3 (3 means clustering)
+learning rate = 0.01
+When mismatched new gaussian parameters
+Variance = 35
+mixing coefficient = 0.00025
+
+The attached coding file is fully documented. For any doubt you can refer code.
+Video files are more than 100 mb. So they are uploaded on drive and link is written given below.
+
+
+Code automatically generates two video file for background and Foreground.
+
+In the end of the code we have written two for loops for generating background and foreground video files.
+You can know the algorithm we have used by simply going through the code.
+
+For 400 frames our code is taking around 4 minutes. As you increase no. of frames time period for processing will increase exponentially.
